@@ -10,7 +10,7 @@ import com.example.android.echonotes.R
 import kotlinx.android.synthetic.main.fragment_list.*
 
 class ListFragment : Fragment() {
-    
+
     override fun onCreateView(
         inflater: LayoutInflater,
         container: ViewGroup?,
