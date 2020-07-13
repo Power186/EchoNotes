@@ -4,4 +4,6 @@
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="title">Title</string>
     <string name="content">Content</string>
+    <string name="detail">Last updated</string>
+    <string name="delete">Delete Note</string>
 </resources>
