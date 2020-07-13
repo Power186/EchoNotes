@@ -6,4 +6,5 @@
     <string name="content">Content</string>
     <string name="detail">Last updated</string>
     <string name="delete">Delete Note</string>
+    <string name="wordCount">"Words: "</string>
 </resources>
